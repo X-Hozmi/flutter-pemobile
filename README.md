@@ -7,13 +7,13 @@ To use this project in your local environment, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/X-Hozmi/flutter_samples.git
+    git clone https://github.com/X-Hozmi/flutter-pemobile.git
     ```
 
 2. Change to the project directory:
 
     ```bash
-    cd flutter_samples
+    cd flutter-pemobile-main
     ```
 
 3. Install the dependencies:
